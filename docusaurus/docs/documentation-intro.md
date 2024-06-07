@@ -14,7 +14,7 @@ You can find different topics in the table of contents. On desktop, you should s
 
 The documentation for React itself is located on a separate website: **[reactjs.org](https://reactjs.org/)**.
 
-This website is only about Create React App.
+This website is only about Creating React App.
 
 ## Something Missing?
 
